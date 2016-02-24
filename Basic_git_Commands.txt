@@ -1,0 +1,9 @@
+Git Commands
+
+>Create a Repository
+                    git init
+
+>Workflow
+
+     Working Directory ---------->  Index  ------------> Head
+                          add      (Stage)   commit
